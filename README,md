@@ -7,7 +7,7 @@ This project was completed as a requirement for the [Name of Course or Platform,
 ## 📸 Screenshot
 
 <!-- Add the relative path to your screenshot image here, assuming it's in a folder called 'assets' -->
-![Screenshot of the completed tribute page](./assets/tribute-screenshot.png)
+![Screenshot of the completed tribute page](./assets/image/gen.png.png)
 
 ## Technologies Used
 
@@ -17,7 +17,7 @@ This project was completed as a requirement for the [Name of Course or Platform,
 
 ## Features
 
-*   **Semantic HTML:** Uses modern HTML5 tags like `<header>`, `<main>`, `<figure>`, and `<footer>`.
+*   **Semantic HTML:** Uses modern HTML5 tags like `<header>`, `<main>`, `<nav>`, and `<pre>`.
 *   **Responsive Design:** Adapts gracefully to various screen sizes using CSS media queries.
 *   **Clean Styling:** Focuses on readability and clear presentation of information.
 
@@ -42,10 +42,5 @@ This project is licensed under the [MIT License](opensource.org) - see the [LICE
 
 ## Author
 
-*   **[Your Name/Username]** - [Your Portfolio Website Link]([URL])
+*   **[Your Gennymiriane]** -([URL])
 
-## Acknowledgements
-
-*   [Name of Course/Platform] - For the project prompt and guidelines.
-*   [Name of Image Source] - For the photograph used in the tribute.
-*   [Source of Information/Biography] - For the biographical data and timeline.
