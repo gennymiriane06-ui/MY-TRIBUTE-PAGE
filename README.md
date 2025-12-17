@@ -7,7 +7,7 @@ This project was completed as a requirement for the [Name of Course or Platform,
 ## 📸 Screenshot
 
 <!-- Add the relative path to your screenshot image here, assuming it's in a folder called 'assets' -->
-![Screenshot of the completed tribute page](./assets/image/gen.png.png)
+![Screenshot of the completed tribute page](./assets/image/gen.png)
 
 ## Technologies Used
 
