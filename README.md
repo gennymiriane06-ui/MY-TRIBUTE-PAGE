@@ -6,7 +6,7 @@ This project was completed as a requirement for the Norman Borlaug
 
 ## Screenshot
 
-![](./assets/image/gen.png)
+![Tribute page image](./assets/image/gen.png)
 
 ## Technologies Used
 
